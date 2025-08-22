@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
+
     public static void main(String[] args) {
        var main = new Main();
         main.workCounter("hello world qwerty world", 2);
